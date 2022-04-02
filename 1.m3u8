@@ -1,9 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA-TYPE:m3u8
-#EXT-X-TYPE-LIVE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXTINF:10.0,
-http://fx2world.com:8080/vaxF599RpT/9Iox0n7Qzj/75
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/gXzzxNikhJoYeVX1vvb6L_8fQI5nTbl_qt9BohruEywXGZiuNBKWPaZVHupwERkug4RMLunABQBsgc5YJ-920g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
