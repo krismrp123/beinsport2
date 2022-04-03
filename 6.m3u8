@@ -6,4 +6,17 @@
 #EXT-X-TYPE-LIVE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXTINF:10.0,
-http://bobolacko.live/tBzr85pNyL/kXVXq8bU8E/2068
+#EXT-Content-Type: text/html; charset=UTF-8
+#EXT-Transfer-Encoding: chunked
+#EXT-Connection: keep-alive
+#EXT-Access-Control-Allow-Origin: *
+#EXT-Location: http://185.191.127.207:8080/hakim2021/123456/15563?token=QhZdWUdRRwsQXAFVAAcEBw0DBwYFBAMHAwIEVgBVAVNfVgQBDFgBAVYbFENCERcDVQxpXwJEXAAEBgABT0RERlxGalFQG18TBA0OUwFHSURACFtTRFxXBwULDwdTXggMFRZFUVAbXxMGDgBUCUdJRFEZQlMUCAddbldTRAoFVBcDWkBUWBVHXlxmXARcBAsCFlsUBkRKRFhCQxQIDRNdWRUWV1FASwRFVxsCQwBTU1YWTRRVCRMIRUNKFAhBL3UXFRZQQEBcC0JbVlZDC0cRFRZNFF8VORRUQkdEVwILVEcbDhcIFhVHXFNBZwJeCwsDVxVfWQgVRAsTAhQeQQteW1BAWkprSQxVEAMaVwVdU1cWHA==
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=dt7HmBLcHJerYJxhGirFBbMSZc42sTojk7Y33TV4WNqQhmdoa5%2BXnW%2BVZMGFH8aBr5iRhwHPxSxdq48lH4oDw2iymRRaq2b6QjVTGKj%2B%2BkwH4fL3aNptsSDwnBlu157cdQ8pbg%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 6f5e2dc8daf34a9b-SIN
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+0
+
