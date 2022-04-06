@@ -1,3 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1957000
-https://cdn.odysee.live/hls/c85943bd114934a21a38980b02b47f2534eb16d0/index.m3u8
+http://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/w3_O7BfHq64-kEZaJlBxw4wB-_6l0JqjF8h6kArWyrMw5DGAfJAmWsKkSRqEpYVRvCZP5g89tm35xssLXVAIsA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
